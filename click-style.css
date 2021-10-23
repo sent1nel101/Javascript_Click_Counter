@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-image: url("https://image.shutterstock.com/image-photo/empty-terminal-railway-station-night-260nw-259527791.jpg");
+    background-size:cover;
+}
+
+.main{
+    background: #333;
+    opacity: .7;
+    color:white;
+}
+
+h1{
+    margin-bottom: 18px;
+    margin-top: 10px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+#dailyTotal{
+    padding-bottom: 15px;
+}
+
+button{
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight:bold;
+    width:200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+    background:darkred;
+}
+
+#save-btn{
+    background:darkgreen;
+}
+
